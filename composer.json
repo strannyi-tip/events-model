@@ -1,0 +1,23 @@
+{
+    "name": "strannyi_tip/events-model",
+    "description": "PHP events model",
+    "type": "package",
+    "require-dev": {
+        "codeception/codeception": "5.1.x-dev",
+        "codeception/module-phpbrowser": "*",
+        "codeception/module-asserts": "*"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "StrannyiTip\\EventsModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "strannyi-tip",
+            "email": "0x00.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
