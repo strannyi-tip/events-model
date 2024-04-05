@@ -10,7 +10,8 @@
     "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
-            "StrannyiTip\\EventsModel\\": "src/"
+            "StrannyiTip\\EventsModel\\": "src/",
+            "StrannyiTip\\Test\\": "tests/"
         }
     },
     "authors": [
